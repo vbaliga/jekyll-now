@@ -4,6 +4,8 @@ title: Main website
 permalink: /main/
 ---
 
-### To return to my main website
+Some information about you!
+
+### Return to my main website
 
 Please click [here](https://www.vikram-baliga.com/)
