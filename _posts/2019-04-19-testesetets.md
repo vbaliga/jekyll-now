@@ -32,6 +32,6 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-![](testesetets_files/figure-markdown_github/pressure-1.png)
+![pressure](/images/pressure-1.png "presssssure")
 
 Note that the `echo = TRUE` parameter was added to the code chunk to allow printing of the R code that generated the plot.
