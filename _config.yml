@@ -86,3 +86,4 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-minimal
+logo: https://github.com/vbaliga/vbaliga.github.io/blob/master/images/vbaliga-labroides.jpg
