@@ -28,8 +28,8 @@ Including Plots
 
 You can also embed plots, for example:
 ``` r
-plot(pressure, pch=19, col="black", xlim=c(0,800), ylim=c(0,800) ,tck=0.02,
-     bty="n")
+plot(pressure, pch=19, col="black", xlim=c(0,800), 
+     ylim=c(0,800), tck=0.02, bty="n")
 ```
 ![pressure](/images/pressure-1.png "presssssure")
 
