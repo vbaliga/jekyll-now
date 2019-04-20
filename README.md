@@ -7,5 +7,5 @@ Although I like using squarespace for my main site, I'm not a fan of the way squ
 My main website can be found [here](https://www.vikram-baliga.com/).
 
 ## other info
-- raw markdown files for each post can be found in `/_posts/`
-- corresponding images (usually figures made in R) will be placed in `/images/`
+> raw markdown files for each post can be found in `/_posts/`
+> corresponding images (usually figures made in R) will be placed in `/images/`
