@@ -6,7 +6,7 @@
 name: Vikram Baliga
 
 # Short bio or description (displayed in the header)
-description: Postdoc @ UBC Zoology
+description: posts by vikram
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/vbaliga/vbaliga.github.io/blob/master/images/vbaliga-labroides.jpg
@@ -88,3 +88,4 @@ exclude:
 theme: jekyll-theme-minimal
 logo: https://github.com/vbaliga/vbaliga.github.io/blob/master/images/vbaliga-labroides.jpg
 excerpt_separator: <!---more---> # Use this to separate post excerpt from full content of post
+title: Posts
