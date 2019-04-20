@@ -34,3 +34,8 @@ plot(pressure)
 ![pressure](/images/pressure-1.png "presssssure")
 
 Note that the `echo = TRUE` parameter was added to the code chunk to allow printing of the R code that generated the plot.
+
+Try out one more syntatical thing:
+``` r
+SEX<-as.factor(c(rep("FEMALE",44),rep("MALE",56)))
+```
